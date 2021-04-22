@@ -29,5 +29,6 @@ How to Play
 
     1. Speak commands: Fight, Run, Magic
     2. If game-over, speak "yes" to play again, or "no" to exit
-    3. Be sure to use correct path for mp3 files for the game to work correctly
-    4. Install and import necessary modules
+    3. Download resources package for mp3 files
+    4. Be sure to use correct path for mp3 files for the game to work correctly
+    5. Install and import necessary modules
